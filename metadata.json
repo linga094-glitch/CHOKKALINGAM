@@ -1,0 +1,6 @@
+{
+  "name": "Digiman Mobile Shop",
+  "description": "Digiman Mobile Shop in Veppur on Chennai to Trichy Main Road, Tamil Nadu — smartphones, iPhones, Android phones, chargers, earphones, cases, and mobile accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
